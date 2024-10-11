@@ -31,7 +31,7 @@ public class App {
 
                 System.out.println(luku1 +" / " + luku2 + " = " +jako);
 
-                
+                System.out.println("LASKUJA");
         
                 
         
